@@ -1,10 +1,10 @@
-# Olá! Bem vindo(a) ao meu perfil GitHub. 😊
+# ***Olá! Bem vindo(a) ao meu perfil GitHub.*** 😊
 
 📚 Sou formada em <b>Sistemas de Informação</b> pelo IFMG e atualmente estou no curso de <b>Web Full Stack</b> da Labenu.
 
 ---
 
-## 💻 ***Tech Stack:***
+## 💻 ***Tecnologia & Ferramentas:***
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="60"/>
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 ***GitHub Stats:***
+## 📊 ***Status GitHub:***
 
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ludmilaasouza&theme=radical&show_icons=true">
@@ -31,8 +31,9 @@
 
 ---
 
-##  🌐 *Socials:*
+## 📫 ***Contato:***
 
+ <a href = "mailto:ludmilasouz.a@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/ludmilaasouza/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a> 
