@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Ludmila Souza,<br><br>- :closed_book: I’m graduated in Information  Systems from the Federal Institute of Education, Science and Technology of Minas Gerais.<br>- 📖 I'm currently on Labenu's Full Stack Web Development course.<br>- :leaves: In my free time I like to wath movies, series, play with my dogs and spend time with my family and friends.</p>
+<p align="left">I'm Ludmila Souza,<br><br>- :closed_book: I’m graduated in Information  Systems from the Federal Institute of Education, Science and Technology of Minas Gerais.<br>- 📖 I'm currently on the Full Stack Web Developer course at Labenu and on the Java Full Stack and Cloud course at Soul Code Academy.<br>- :leaves: In my free time I like to wath movies, series, play with my dogs and spend time with my family and friends.</p>
 
 ###
 
